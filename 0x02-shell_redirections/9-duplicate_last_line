@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n l < acta >> iacta
+tail -n l < iacta >> iacta
